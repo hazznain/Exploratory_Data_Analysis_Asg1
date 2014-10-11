@@ -28,11 +28,11 @@ For use in Exploratory Data Analysis course as part of of Coursera Data Science 
 
 ![plot2](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot2.png)
 
- ####plot3
+####plot3
 
 ![plot3](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot3.png)
 
- ####plot4
+####plot4
 
 ![plot4](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot4.png)
 
