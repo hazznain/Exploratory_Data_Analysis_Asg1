@@ -16,7 +16,7 @@ with(select,{
                    ylab="Energy sub metering", xlab="")
               lines(Sub_metering_2~timestamp,col="red")
               lines(Sub_metering_3~timestamp,col="blue")
-        legend("topright", col=c("black", "red", "blue"), lty=1, lwd=1, text.width = strwidth("      Sub_metering_2"), 
+        legend("topright", col=c("black", "red", "blue"), lty=1, lwd=1, text.width = strwidth("       Sub_metering_2"), 
          legend=c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"), cex= 0.8, bty = "n")
   
   plot(Global_reactive_power~timestamp, type="l", xlab="datetime")
