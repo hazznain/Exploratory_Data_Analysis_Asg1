@@ -11,24 +11,28 @@ For use in Exploratory Data Analysis course as part of of Coursera Data Science 
 4. From cloned repository directory run the R scripts using 
 
 `source("plot1.R")`
+
 `source("plot2.R")`
+
 `source("plot3.R")`
+
 `source("plot4.R")`
 
 ###Generated Graphs
  
+####plot1
 
 ![plot1](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot1.png)
 
-
+####plot2
 
 ![plot2](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot2.png)
 
- 
+ ####plot3
 
 ![plot3](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot3.png)
 
- 
+ ####plot4
 
 ![plot4](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot4.png)
 
