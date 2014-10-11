@@ -3,7 +3,7 @@ data$Date <- as.Date(data$Date, format="%d/%m/%Y")
 select <- data[data$Date == "2007-02-01" | data$Date == "2007-02-02", ]
 timestamp <- paste(as.Date(select$Date), select$Time)
 select$timestamp <- as.POSIXct(timestamp)
-par(mfrow=c(2,2), mar=c(4,4,2,1), oma=c(0,0,0,0))
+par(mfrow=c(2,2), mar=c(4,4,3,1), oma=c(0,0,0,0))
 with(select,{
   
   plot(Global_active_power~timestamp, type="l",
