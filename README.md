@@ -17,12 +17,19 @@ For use in Exploratory Data Analysis course as part of of Coursera Data Science 
 
 ###Generated Graphs
 1. 
+
 ![plot1](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot1.png)
+
 2. 
+
 ![plot2](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot2.png)
+
 3. 
+
 ![plot3](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot3.png)
+
 4. 
+
 ![plot4](https://github.com/hazznain/Exploratory_Data_Analysis_Asg1/blob/master/plot4.png)
 
 
