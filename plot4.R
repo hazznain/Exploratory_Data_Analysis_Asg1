@@ -20,6 +20,7 @@ with(select,{
          legend=c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"), cex= 0.8, bty = "n")
   
   plot(Global_reactive_power~timestamp, type="l", xlab="datetime")
+  axis(side = 2, at= c("0.0","0.1","0.2","0.3","0.4","0.5"))
   
 })
 
